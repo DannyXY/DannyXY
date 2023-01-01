@@ -7,15 +7,15 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Contact me anytime. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/DannyXY?label=Follow%20Me&style=social)](https://github.com/DannyXY)
+📝 ***Contact me anytime. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/DannyXY?label=Follow%20Me&&style=for-the-badge)](https://github.com/DannyXY)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Daniel%Adewambe-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniel-adewambe/)
-[![Mail](https://img.shields.io/badge/Gmail-danoscolobo@gmail.com-blue?logo=Gmail&logoColor=default&labelColor=black)](mailto:danoscolobo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Daniel%Adewambe-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniel-adewambe/)
+[![Mail](https://img.shields.io/badge/Gmail-danoscolobo@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=default&labelColor=black)](mailto:danoscolobo@gmail.com)
 <br>
-[![Codepen](https://img.shields.io/badge/Codepen-DannyXYZ123-gray?logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/DannyXYZ123)
-[![Codesandbox](https://img.shields.io/badge/Codesandbox-DannyXY-gray?logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/DannyXY)
-[![HackerRank](https://img.shields.io/badge/HackerRank-danoscolobo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://hackerrank.com/danoscolobo)
+[![Codepen](https://img.shields.io/badge/Codepen-DannyXYZ123-gray?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/DannyXYZ123)
+[![Codesandbox](https://img.shields.io/badge/Codesandbox-DannyXY-gray?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/DannyXY)
+[![HackerRank](https://img.shields.io/badge/HackerRank-danoscolobo-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=Green&labelColor=black)](https://hackerrank.com/danoscolobo)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Adewambe Daniel</strong></samp></h2>
