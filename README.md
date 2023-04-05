@@ -20,7 +20,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Adewambe Daniel</strong></samp></h2>
 <h3 align='center'><strong><a target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | MERN | Full-stack JavaScript | React/Node/NestJS developer | Web developer</p>
+<p align='center'>Software developer | MERN | Full-stack JavaScript | React/Node/NestJS developer | Golang | Web developer</p>
 
 <p align='left'> 📫 Started out with a bit of HTML and C++ and ever since been a self taught software developer also unstopped learner. I have grown into a Full Stack Javascript career path, Backend Heavy with solid knowledge in frontend technologies and techniques,always something exciting to learn about new  cutting edge tools and technologies.</p>
 
