@@ -17,6 +17,7 @@ https://simpleicons.org/
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-DannyXY-gray?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/DannyXY)
 [![HackerRank](https://img.shields.io/badge/HackerRank-danoscolobo-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=Green&labelColor=black)](https://hackerrank.com/danoscolobo)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+https://dannyxy.hashnode.dev/ - hashnode
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Adewambe Daniel</strong></samp></h2>
 <h3 align='center'><strong><a target="_blank">Portfolio🌐</a></strong></h3>
