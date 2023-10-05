@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Daniel%Adewambe-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniel-adewambe/)
-[![Mail](https://img.shields.io/badge/Gmail-danoscolobo@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=default&labelColor=black)](mailto:danoscolobo@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-danieladewambe@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=default&labelColor=black)](mailto:danoscolobo@gmail.com)
 <br>
 [![Codepen](https://img.shields.io/badge/Codepen-DannyXYZ123-gray?style=for-the-badge&logo=codepen&logoColor=white&labelColor=black)](https://codepen.io/DannyXYZ123)
 [![Codesandbox](https://img.shields.io/badge/Codesandbox-DannyXY-gray?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=black)](https://codesandbox.io/u/DannyXY)
@@ -23,9 +23,7 @@ https://dannyxy.hashnode.dev/ - hashnode
 <h3 align='center'><strong><a target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | MERN | Full-stack JavaScript | React/Node/NestJS developer | Golang | Web developer</p>
 
-<p align='left'> 📫 Started out with a bit of HTML and C++ and ever since been a self taught software developer also unstopped learner. I have grown into a Full Stack Javascript career path, Backend Heavy with solid knowledge in frontend technologies and techniques,always something exciting to learn about new  cutting edge tools and technologies.</p>
-
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+<p align='left'>🚀 Backend-heavy Full Stack JavaScript developer (NestJS, NodeJS, Express). Meticulous attention to detail. Crafting robust, scalable server-side solutions. Complementing frontend skills for a seamless user experience. Passionate about staying at the forefront of technology for innovative projects. Let's build powerful backend systems together!</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -60,7 +58,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`REST API`, `CRUD Operations`, `Software Architecture`, `MongoDB Techniques`, `Deployment`, `Caching and Job Queues`, `Load Balancing`, `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`REST API`, `CRUD Operations`, `Software Architecture`, `MongoDB Techniques`, `Deployment`, `Caching and Job Queues`, `Load Balancing`, `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`, `SOLID`.
 
 
 🌍 **Deployment platforms:**<br>
